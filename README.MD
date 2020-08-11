@@ -1,21 +1,21 @@
-#About this project 
+# About this project 
 
 
 
 
-#tools 
+# tools 
 - wireshark 
 - reponder (/opt)
 - phishme  (/opt)
 
 
-#lang 
+# lang 
 - python
 - python3 
 - ruby
 - golang 
 
-#to-be installed 
+# to-be installed 
 - [√]nmap 
 - waybackurls 
 - dirsearch
