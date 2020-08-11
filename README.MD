@@ -16,9 +16,9 @@
 - golang 
 
 #to-be installed 
-- nmap 
+- [√]nmap 
 - waybackurls 
 - dirsearch
 - amass
 - wp-scan 
-- mobsf
+- mobsf 
