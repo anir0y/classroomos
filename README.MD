@@ -3,22 +3,43 @@
 
 
 
-# tools 
-- wireshark 
-- reponder (/opt)
-- phishme  (/opt)
+### tools 
+- [x] wireshark 
+- [x] reponder (/opt)
+- [x] phishme  (/opt)
+- [x] nmap 
+- [x] SQLMAP
 
 
-# lang 
+### Lang 
 - python
 - python3 
 - ruby
 - golang 
 
-# to-be installed 
-- [√]nmap 
+### to-be installed 
+
 - waybackurls 
 - dirsearch
-- amass
+- amass (Repo added, can be intalled)
+    ```bash 
+    install amass
+    ```
 - wp-scan 
 - mobsf 
+
+## Lazy Commands
+
+|command |What they do| why they do|
+|---|---------|---|
+|install| install packages | beacuse I'm Lazy added ```sudo apt inatall -y $package ``` so you don;t have to do
+|ipinfo|Show Private & Public IP| just a Grep thing using this [script](https://gist.github.com/anir0y/99a67600cb8bab1df6b30a3e0d1ab1cb)
+|||
+
+
+### Repos 
+> added  KALI Linux Repo, because why not? now you can install packages from KALI Repo by runnning this following command 
+
+``` bash
+install sqlmap # it will install sqlmap
+```
