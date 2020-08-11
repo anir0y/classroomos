@@ -1,8 +1,13 @@
 # About this project 
 VM with basic tools for beginers who want't to learn & start their career on cybersecurity. this is a Alpha release, we will pe updating thi VM time to time. 
 
-![](https://i.imgur.com/OPsw2ev.png)
-<center>
+
+<center >
+
+
+![](https://i.imgur.com/4RUjCIA.png)
+
+
 
 [![Download Classroom-os](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/classroom-os/files/latest/download)
 
