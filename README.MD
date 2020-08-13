@@ -5,11 +5,13 @@ VM with basic tools for beginers who want't to learn & start their career on cyb
 <center >
 
 
-![](https://i.imgur.com/4RUjCIA.png)
+![OS LOGO](https://i.imgur.com/4RUjCIA.png)
 
 
 
 [![Download Classroom-os](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/classroom-os/files/latest/download)
+
+[![Download Classroom-os](https://img.shields.io/sourceforge/dm/classroom-os.svg)](https://sourceforge.net/projects/classroom-os/files/latest/download)
 
 
 </center>
@@ -55,10 +57,12 @@ VM with basic tools for beginers who want't to learn & start their career on cyb
 install sqlmap # it will install sqlmap
 ```
 
-#### Download Link
+---
+
 <center>
 
-[![Download Classroom-os](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/classroom-os/files/latest/download)
+![OS LOGO](https://i.imgur.com/4RUjCIA.png)
 
 
 </center>
+---
